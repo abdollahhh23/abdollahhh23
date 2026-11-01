@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdollahhh23/abdollahhh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+                                                                                          
+                              · · · ░ ░ ░ ░ · · ·                                        
+                         · · ░ ░ ▒ ▒ ▒ ▒ ▒ ▒ ░ ░ · ·                                    
+                      · ░ ░ ▒ ▒ ▓ ▓ import ▓ ▓ ▒ ▒ ░ ░ ·                                
+                    · ░ ▒ ▒ ▓ ▓ █ █ numpy █ █ ▓ ▓ ▒ ▒ ░ ░ ·                             
+                  · ░ ▒ ▓ ▓ █ █ █ as np █ █ █ ▓ ▓ ▒ ▒ ░ · ·                             
+                 · ░ ▒ ▓ █ █ █ █ import █ █ █ █ ▓ ▓ ▒ ░ · ·                              
+                · ░ ▒ ▓ █ █ █ def █ cv2 █ def █ █ ▓ ▓ ▒ ░ ·                              
+               · ░ ▒ ▓ █ █ █  while █ True █ █  █ █ ▓ ▒ ░ ·                              
+               · ░ ▒ ▓ █ █ █    build █ ship █    █ █ ▓ ▒ ░ ·                            
+               · ░ ▒ ▓ █ █ █      if █ broken      █ █ ▓ ▒ ░ ·                           
+               · ░ ▒ ▓ █ █ █        fix █ it        █ █ ▓ ▒ ░ ·                          
+               · ░ ▒ ▓ █ █ █      else █ ship       █ █ ▓ ▒ ░ ·                          
+               · ░ ▒ ▓ █ █ █    return █████████    █ █ ▓ ▒ ░ ·                          
+                · ░ ▒ ▓ █ █ █ █ ███ █ █ ██ █ ██ █ █ █ ▓ ▒ ░ ·                           
+                 · ░ ▒ ▓ ▓ █ █ █ █ █ █ █ █ █ █ █ █ ▓ ▓ ▒ ░ ·                            
+                  · · ░ ▒ ▓ ▓ █ █ █ █ █ █ █ █ █ ▓ ▓ ▒ ░ · ·                             
+                    · · ░ ▒ ▒ ▓ ▓ ▓ █ █ █ ▓ ▓ ▓ ▒ ▒ ░ · ·                               
+                       · · ░ ░ ▒ ▒ ▓ ▓ ▓ ▓ ▒ ▒ ░ ░ · ·                                  
+                           · · · ░ ░ ░ ░ ░ ░ · · · ·                                     
+                                                                                          
+         ┌──────────────────────────────────────────────────────────────────┐            
+         │  A B D U L L A H  ·  B I N  ·  N O M A N  ·  abdollahhh23      │            
+         └──────────────────────────────────────────────────────────────────┘            
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
